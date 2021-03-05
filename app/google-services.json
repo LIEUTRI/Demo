@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422141355898",
+    "project_id": "myapp-lieutri",
+    "storage_bucket": "myapp-lieutri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422141355898:android:8af53c93d56818dccb58c3",
+        "android_client_info": {
+          "package_name": "com.lieutri.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422141355898-ekc9kq45gsdroa3b2fsfj3cj0lq9hj49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCyz7Rr437t4I6tbxPALzoqjN-2aQGndY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422141355898-ekc9kq45gsdroa3b2fsfj3cj0lq9hj49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
